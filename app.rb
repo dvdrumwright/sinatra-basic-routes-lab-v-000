@@ -6,6 +6,6 @@ class App < Sinatra::Base
   "Hello, World!"
 end
 
-  get // do
-    
+  
+
 end
